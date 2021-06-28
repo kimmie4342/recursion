@@ -3,7 +3,7 @@ plugins {
 }
 
 sourceCompatibility = JavaVersion.VERSION_11
-testCompatibility = JavaVersion.VERSION_11
+targetCompatibility = JavaVersion.VERSION_11
 
 group 'edu.cnm.deepdive'
 version '1.0-SNAPSHOT'
